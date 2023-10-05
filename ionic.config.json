@@ -1,0 +1,7 @@
+{
+  "name": "pm_uas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
